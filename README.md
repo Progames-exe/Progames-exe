@@ -18,18 +18,16 @@
 <p align="center">
   <a href="https://github.com/Progames-exe/JARVIS">
     <img
-      src="https://img.shields.io/badge/J.A.R.V.I.S.-2563EB?style=for-the-badge&logo=discord&logoColor=white"
+      src="https://img.shields.io/badge/J.A.R.V.I.S.-2563EB?style=for-the-badge&logo=github&logoColor=white"
       alt="JARVIS"
     />
   </a>
-
   <a href="https://www.linkedin.com/in/sarthak-singh-245993401/">
     <img
       src="https://img.shields.io/badge/LinkedIn-FACC15?style=for-the-badge&logo=linkedin&logoColor=111827"
       alt="LinkedIn"
     />
   </a>
-
   <a href="https://discord.gg/NjyQrDZkZZ">
     <img
       src="https://img.shields.io/badge/Discord-2563EB?style=for-the-badge&logo=discord&logoColor=white"
@@ -63,37 +61,22 @@ pronouns:   he/him
 
 <td width="50%" valign="top">
 
-<h3>
-  <img
-    src="https://cdn.simpleicons.org/discord/5865F2"
-    width="27"
-    height="27"
-    align="center"
-  />
-  &nbsp;J.A.R.V.I.S.
-</h3>
+<h3>🤖 J.A.R.V.I.S.</h3>
 
 <strong>An all-in-one Discord bot.</strong>
 
 <p>
-Moderation, utility, leveling, tickets, automod and other community-management features — all under one bot.
+Built to handle the core systems a Discord community needs in one place — moderation, utilities, leveling, tickets, automod and server management.
 </p>
 
-<p>Currently in active development.</p>
+<p>
+Currently in active development with more systems and commands being added over time.
+</p>
 
 <code>Discord.js</code> ·
 <code>JavaScript</code> ·
 <code>Bots</code> ·
 <code>Automation</code>
-
-<br><br>
-
-<a href="https://github.com/Progames-exe/JARVIS">
-  <img
-    src="https://img.shields.io/badge/View_Project-2563EB?style=flat-square&logo=github&logoColor=white"
-    alt="View JARVIS"
-  />
-</a>
 
 </td>
 
@@ -101,29 +84,28 @@ Moderation, utility, leveling, tickets, automod and other community-management f
 
 <h3>
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/6/64/Minecraft-creeper-face.svg"
-    width="27"
-    height="27"
-    align="center"
+    src="https://minecraft.wiki/images/Grass_Block_JE7_BE6.png"
+    width="30"
+    height="30"
+    align="middle"
+    alt="Grass Block"
   />
   &nbsp;Minecraft Plugin Development
 </h3>
 
 <strong>Learning Java by building plugins people need & demand.</strong>
 
-<br><br>
+<p>
+Working toward creating useful plugins for Minecraft servers, from gameplay systems and mechanics to server utilities and quality-of-life features.
+</p>
+
+<p>
+Currently learning the Java and Paper fundamentals needed to build, debug and maintain proper production plugins.
+</p>
 
 <code>Java</code> ·
 <code>Paper API</code> ·
-<code>Minecraft</code> ·
-<code>Git</code>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/Status-Learning-FACC15?style=flat-square&logoColor=111827"
-  alt="Learning"
-/>
+<code>Minecraft</code>
 
 </td>
 
@@ -132,41 +114,9 @@ Moderation, utility, leveling, tickets, automod and other community-management f
 
 ---
 
-### 🧰 Tech & Tools
+### 🧰 Tech Stack
 
-<p align="center">
-
-  <img
-    src="https://img.shields.io/badge/Java-FACC15?style=for-the-badge&logo=openjdk&logoColor=111827"
-    alt="Java"
-  />
-
-  <img
-    src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white"
-    alt="JavaScript"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Git-FACC15?style=for-the-badge&logo=git&logoColor=111827"
-    alt="Git"
-  />
-
-  <img
-    src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Supabase-FACC15?style=for-the-badge&logo=supabase&logoColor=111827"
-    alt="Supabase"
-  />
-
-  <img
-    src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"
-    alt="PostgreSQL"
-  />
-
-</p>
+<p align="center"><img src="https://img.shields.io/badge/Java-FACC15?style=for-the-badge&logo=openjdk&logoColor=111827" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-FACC15?style=for-the-badge&logo=html5&logoColor=111827" alt="HTML5" /> <img src="https://img.shields.io/badge/Supabase-2563EB?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/PostgreSQL-FACC15?style=for-the-badge&logo=postgresql&logoColor=111827" alt="PostgreSQL" /></p>
 
 ---
 
