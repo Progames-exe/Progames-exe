@@ -1,101 +1,101 @@
 <p align="center">
-  <a href="https://github.com/Progames-exe">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:3B82F6,100:6366F1&height=180&section=header&text=Hey,%20I'm%20Sarthak!&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=building%20bots,%20Minecraft%20plugins%20and%20way%20too%20many%20side%20projects&descAlignY=58&descSize=16" alt="Hey, I'm Sarthak!" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,35:312E81,70:7C3AED,100:06B6D4&height=145&section=header&text=PROGAMES.EXE&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20DEBUG%20%E2%80%A2%20REPEAT&descAlignY=68&descSize=15" alt="Progames.exe" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=56D4DD&center=true&vCenter=true&width=700&height=45&lines=Grade+11+Commerce+student;Building+J.A.R.V.I.S.;Learning+Java+%2B+Paper+API;Turning+random+ideas+into+actual+projects" alt="Typing SVG" />
+  <b>Commerce student who somehow ended up building Discord bots and Minecraft plugins.</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/Progames-exe/JARVIS">
-    <img src="https://img.shields.io/badge/PROJECT-J.A.R.V.I.S.-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/J.A.R.V.I.S.-7C3AED?style=flat-square&logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sarthak-singh-245993401/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://discord.gg/NjyQrDZkZZ">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-EC4899?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
 
----
+<br>
 
-### 👋 About Me
-
-**Grade 11 [Commerce] Student
-Building J.A.R.V.I.S & Minecraft Plugins**
-
-Most of the time I'm either working on **J.A.R.V.I.S.**, learning **Java + Paper API**, experimenting with Minecraft plugins, or turning another random idea into a project before finishing the previous one.
+## `> profile`
 
 ```yaml
-currently:  Building J.A.R.V.I.S.
-learning:   Java, Paper API & plugin development
+status:     building stuff
+currently:  J.A.R.V.I.S.
+learning:   Java + Paper API
+next_up:    Minecraft plugins
+academic:   Grade 11 Commerce
 prepping:   SAT / IPMAT
 pronouns:   he/him
 ```
 
----
+I spend most of my dev time working on **J.A.R.V.I.S.**, learning Java, messing around with Minecraft development, and starting projects faster than I can finish them.
 
-### 🚀 What I'm Building
+My goal isn't to become someone who memorizes every language or framework.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 J.A.R.V.I.S.
-
-**An all-in-one Discord bot.**
-
-Moderation, utility, leveling, tickets, automod and other community-management features — all under one bot.
-
-Currently in active development.
-
-`Discord.js` · `JavaScript` · `Bots` · `Automation`
-
-</td>
-
-<td width="50%" valign="top">
-
-#### ⛏️ Minecraft Plugin Development
-
-**Learning Java by building plugins people need & demand.**
-
-`Java` · `Paper API` · `Minecraft` · `Git`
-
-</td>
-</tr>
-</table>
+I want to be able to **understand code, review it, debug it and build useful stuff with it.**
 
 ---
 
-### 🧰 Tech & Tools
+## `> projects`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+### 🤖 J.A.R.V.I.S.
+
+> An all-in-one Discord bot I'm building from the ground up.
+
+Moderation · Utility · Leveling · Tickets · Automod · Server Management
+
+[![Repository](https://img.shields.io/badge/VIEW_PROJECT-J.A.R.V.I.S.-7C3AED?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Progames-exe/JARVIS)
+
+---
+
+### ⛏️ Minecraft Development
+
+> Learning Java and Paper API by building plugins around things Minecraft servers actually need.
+
+Currently focused on:
+
+`Java`   `Paper API`   `Minecraft`   `Plugin Development`
+
+**Goal:** start publishing useful plugins instead of making random tutorial projects.
+
+---
+
+## `> toolbox`
+
+<p>
+  <img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-06B6D4?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-EC4899?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-312E81?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-14B8A6?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub
+## `> github.exe`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Progames-exe&theme=github_dark" alt="GitHub profile summary" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Progames-exe&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Progames-exe&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Progames-exe&theme=github_dark" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Progames-exe&theme=tokyonight" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Progames-exe&theme=tokyonight" />
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:00C6FF&height=90&section=footer" />
+  <code>still learning • still building • probably debugging something</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,45:7C3AED,100:EC4899&height=5&section=footer" />
 </p>
