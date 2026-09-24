@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Progames-exe/JARVIS">
+  <a href="https://github.com/Progames-exe/Sentry">
     <img
-      src="https://img.shields.io/badge/J.A.R.V.I.S.-2563EB?style=for-the-badge&logo=github&logoColor=white"
-      alt="JARVIS"
+      src="https://img.shields.io/badge/Sentry-2563EB?style=for-the-badge&logo=github&logoColor=white"
+      alt="Sentry"
     />
   </a>
   <a href="https://www.linkedin.com/in/sarthak-singh-245993401/">
@@ -41,12 +41,12 @@
 ### 👋 About Me
 
 **Grade 11 [Commerce] Student  
-Building J.A.R.V.I.S & Minecraft Plugins**
+Building Sentry & Minecraft Plugins**
 
-Most of the time I'm either working on **J.A.R.V.I.S.**, learning **Java + Paper API**, experimenting with Minecraft plugins, or turning another random idea into a project before finishing the previous one.
+Most of the time I'm either working on **Sentry**, learning **Java + Paper API**, experimenting with Minecraft plugins, or turning another random idea into a project before finishing the previous one.
 
 ```yaml
-currently:  Building J.A.R.V.I.S.
+currently:  Building Sentry
 learning:   Java, Paper API & plugin development
 prepping:   SAT / IPMAT
 pronouns:   he/him
@@ -61,7 +61,7 @@ pronouns:   he/him
 
 <td width="50%" valign="top">
 
-<h3>🤖 J.A.R.V.I.S.</h3>
+<h3>🤖 Sentry </h3>
 
 <strong>An all-in-one Discord bot.</strong>
 
